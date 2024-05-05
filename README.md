@@ -41,7 +41,7 @@ Data Visualization:
 
 
 
-#POWER BU DASHBOARD
+# POWER BI DASHBOARD
 
 ![image](https://github.com/saishrikrishnaa/Sales-Insight/assets/56291642/688c5c15-7e35-4738-8c4a-20317acfc078)
 
