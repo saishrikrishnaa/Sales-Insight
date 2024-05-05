@@ -2,7 +2,7 @@
 Data Analyst Portfolio Project
 
 
-**Problem Statement:**
+**Problem Statement:**\n
 A Computer Hardware business is facing challenges in dynamically changing market. Sales director decides to invest in data analysis project and he would like to build power BI dashboard that can give him real time sales insights.
 
 **Purpose:**
