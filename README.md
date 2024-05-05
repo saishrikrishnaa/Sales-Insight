@@ -24,19 +24,31 @@ Tools Used: Power BI,MySQL Workbench
 Data Cleaning:
 
 • Deleting redundant columns.
+
 • Renaming the columns.
+
 • Dropping duplicates.
+
 • Cleaning individual columns.
+
 • Remove the NaN values from the dataset
+
 
 Data Visualization:
 
+
 • Bar Chart.
+
 • Line Chart.
+
 • Total Revenue
+
 • Total Sales
+
 • Top 5 Customers
+
 • Top 5 Products
+
 
 
 
