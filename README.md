@@ -16,5 +16,6 @@ End Result Required:
 An automated dashboard providing quicl & latest sales insight in order to support data driven decision making.
 
 DB: MySQL
+
 Tools Used: Power BI
 
