@@ -13,7 +13,7 @@ To unlock sales insights that are not visible before for sales team for decision
 
 End Result Required:
 
-An automated dashboard providing quicl & latest sales insight in order to support data driven decision making.
+An automated dashboard providing quick & latest sales insight in order to support data driven decision making.
 
 DB: MySQL
 
