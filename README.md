@@ -8,7 +8,7 @@ A Computer Hardware business is facing challenges in dynamically changing market
 
 **Purpose:**
 
-To unlock sales insights that are not visible befre for sales team for decision support & automate the, to reduce manual time spent in data gathering.
+To unlock sales insights that are not visible before for sales team for decision support & automate the, to reduce manual time spent in data gathering.
 
 
 End Result Required:
